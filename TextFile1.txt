@@ -1,3 +1,2 @@
 Git is a version control system.
-try to use git
-add second
+Git is free software.
